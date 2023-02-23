@@ -10,7 +10,7 @@ A analise consiste em tentar responder a seguinte pergunta:
 
 1. Considerando a carreira de Lebron James até a sua idade atual de 38 anos e comparando com a carreira de Kareem Abdul-Jabbar, que é o ex-maior pontuador da história da NBA, é possível projetar quantos pontos Lebron James terá marcado ao atingir a idade de 42 anos, que é quando Kareem se aposentou. Levando em conta esses dados, qual é a projeção de pontos que Lebron James terá feito em toda a sua carreira ao atingir os 42 anos de idade?
 
- R: Segundo a analise aos 42 anos ele terá em média 44k de pontos na carreira, quase que 6k á mais que Kareem na mesma idade.
+ R: De acordo com a análise, aos 42 anos, em média, ele terá acumulado 44 mil pontos em sua carreira, o que representa quase 6 mil pontos a mais do que Kareem tinha na mesma idade.
 
 <img width="1012" alt="image" src="https://user-images.githubusercontent.com/114960723/220787614-c5387347-1b33-43d2-b66f-88f5c5c2c693.png">
 
